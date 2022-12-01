@@ -1,0 +1,20 @@
+/* --------------------------------------------------------------------------------------
+
+Permets de bloquer le surlignement du texte sur les différents navigateurs
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+
+Empeche les évenemnts liées au pointeur
+    pointer-events: none;
+
+
+
+
+
+
+
+
+
