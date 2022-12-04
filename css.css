@@ -1,4 +1,47 @@
-/* --------------------------------------------------------------------------------------
+/*  
+Made by @Vitallyx
+
+Veuillez lire les notes pour mieux comprendre la structure du mémento.
+
+ Note : 
+
+ Site utile : 
+► https://jigsaw.w3.org/css-validator - Permet de vérifier la validité du code CSS.
+► https://www.w3.org/2009/cheatsheet - Permet d'avoir de la doc sur chaque propriétés.
+
+
+ Histoire :
+
+Le CSS de l'abréviation de "Cascading Style Sheets" est un language crée en 1997, qui permet de mettre en forme les documents.
+► Le CSS définit la forme (apparence).
+
+ Structure :
+
+Pour pouvoir écrire du CSS il faut lier le fichier HTML au fichier CSS : <link rel="stylesheet" href="style.css" defer>.
+En CSS nous utilisons un système de sélecteur d'éléments/classes avec des propriétés.
+
+ Class & id :
+Les sélecteurs de classe CSS permettent de cibler des éléments d'un document en fonction du contenu de l'attribut de chaque élément.
+► Un attribut class peut être réutilisé plusieurs fois dans le code.
+► Un attribut id ne peut être utilisé qu'une seule fois pour un élément.
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Permets de bloquer le surlignement du texte sur les différents navigateurs
     -webkit-user-select: none;
