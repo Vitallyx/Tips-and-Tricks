@@ -27,7 +27,7 @@ body {
 }
 
 /* 
- Class & id :
+ Class & Id :
 
 Les sélecteurs de classe CSS permettent de cibler des éléments d'un document en fonction du contenu de l'attribut de chaque élément.
 ► Un attribut class peut être réutilisé plusieurs fois dans le code.
@@ -39,9 +39,13 @@ Les sélecteurs de classe CSS permettent de cibler des éléments d'un document 
 ► Class : . + nom de la classe
 ► Id : # + nom de l'id
 
-display : block : affichage sous forme d’un bloc ;
-display : inline : affichage en ligne ;
-display : none : l’élément n’est pas affiché. 
+
+ Les types block et inline :
+
+Display : 
+► block : affichage sous forme d’un bloc
+► inline : affichage en ligne
+► none : l’élément n’est pas affiché
 
 */
 
