@@ -20,11 +20,28 @@ Le CSS de l'abréviation de "Cascading Style Sheets" est un language crée en 19
 Pour pouvoir écrire du CSS il faut lier le fichier HTML au fichier CSS : <link rel="stylesheet" href="style.css" defer>.
 En CSS nous utilisons un système de sélecteur d'éléments/classes avec des propriétés.
 
+Pour écrire du css il faut d'abbord séléctionner l'élement puis lui donner les propriétés voulu. */
+
+body {
+    color: #fff;
+}
+
+/* 
  Class & id :
+
 Les sélecteurs de classe CSS permettent de cibler des éléments d'un document en fonction du contenu de l'attribut de chaque élément.
 ► Un attribut class peut être réutilisé plusieurs fois dans le code.
 ► Un attribut id ne peut être utilisé qu'une seule fois pour un élément.
 
+ Sélécteur : 
+
+► Element HTML : nom de l'élément
+► Class : . + nom de la classe
+► Id : # + nom de l'id
+
+display : block : affichage sous forme d’un bloc ;
+display : inline : affichage en ligne ;
+display : none : l’élément n’est pas affiché. 
 
 */
 
